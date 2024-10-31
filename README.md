@@ -21,5 +21,9 @@ Um único número inteiro representando o total de vendas e um número decimal r
 
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+
 ![image](https://github.com/user-attachments/assets/95b69120-b5b4-4592-844f-0deeae0f01bf)
+
+
 Atenção: É extremamente importante que as entradas e saídas sejam exatamente iguais às descritas na descrição do desafio de código.
